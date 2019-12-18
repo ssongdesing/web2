@@ -1,0 +1,48 @@
+@charset "utf-8";
+
+/*메인슬라이더*/
+.mainSlider{}
+.mainSlider a{display:block;}
+.mainSlider img{width:100%; display:block;}
+
+/*con1*/
+.con1{padding:4% 2%;}
+.con1 h2{display:inline-block; font-size:18px; color:#EF4C2B; vertical-align:middle; margin-right:1%;}
+.con1 span{font-size:11px; display:inline-block; width:65%; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; vertical-align:middle;}
+.con1 span a{}
+
+/*con2*/
+.con2{background:#eee; padding-bottom:10%; margin-bottom:15%;}
+.con2 h2{font-size:18px; text-align:center; padding:50px 0 20px 0;}
+.con2 li{width:33.3%; float:left;}
+.con2 li a{}
+.con2 .slick-slide{margin:0 1%;}
+.con2 .slick-slide img{width:100%; box-shadow:1px 2px 5px rgba(0,0,0,0.2);}
+
+/*con3*/
+.con3{}
+.con3 h2{font-size:18px; text-align:center; margin:50px 0 20px 0;}
+.con3 div{width:70%; margin:0 auto;}
+.con3 div a{}
+.con3 div img{width:100%;}
+
+/*con4*/
+.con4{}
+.con4 h2{font-size:18px; text-align:center; margin:50px 0 20px 0;}
+.con4 ul{}
+.con4 li{float:left;}
+.con4 li a{}
+.con4 li img{width:100%;}
+
+.con4Img{width:63%; height:160px; background:url(../images/con4_img1.png) no-repeat center center; background-size:cover;}
+.con4Img a{}
+.con4Img img{width:100%;}
+
+.con4Text{width:37%; height:160px; padding:3%; box-sizing:border-box; background:#3F3F3F; color:#fff; font-weight:100;}
+.con4Text p{font-size:12px; line-height:13px;}
+.con4Text h3{font-size:25px; line-height:25px; margin-top:15px;}
+.con4Text h3 span{display:block;}
+
+.con4Btn{width:100%; border:1px solid #fff; text-align:center; padding:5px 0; margin-top:15px;}
+.con4Btn p{}
+.con4Btn p a{ color:#fff;}
